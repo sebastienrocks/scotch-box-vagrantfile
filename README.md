@@ -14,3 +14,9 @@ On line 15, do the same as adding a new website in the DBS var. This will be you
 ### Importing a database
 
 If you have a sql file you would like to import for your project, rename it so it has the same name as your database, and put it in the /dbs/ folder. Once the provision is done it will be automatically moved to /dbs/imported.
+
+## Running
+
+Once you have added all your websites, run vagrant provision.
+
+You will now have one folder per domain name added, add website files to the public folder generated.
