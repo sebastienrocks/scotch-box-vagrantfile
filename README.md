@@ -9,7 +9,7 @@ Simply add a new domain name you would like to use on line 14 in the DOMAINS var
 
 ### Create a database
 
-On line 15, do the same as adding a new website, this will be your database name. If you wish to not have a database for your domain, add a empty string ( "" ).
+On line 15, do the same as adding a new website in the DBS var. This will be your database name. If you wish to not have a database for your domain, add a empty string ( "" ).
 
 ### Importing a database
 
